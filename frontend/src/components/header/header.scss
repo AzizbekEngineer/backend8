@@ -23,6 +23,11 @@
         }
     }
 
+    &__not {
+        padding: 15px;
+        font-size: 18px;
+    }
+
     &__form {
         flex-grow: 1;
         margin: 0 20px;
